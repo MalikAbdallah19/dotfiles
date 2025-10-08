@@ -10,8 +10,8 @@
 # - git config --global user.email "your@email.com"
 # 
 [user]
-    name = Sven Graupner
-    email = sgraupner@bht-berlin.de
+	name = Your Name
+	email = Your E-Mail
 
 [core]
     ignorecase = true       # ignore upper/lower case in file names
