@@ -1,0 +1,5 @@
+[init]
+	defaultBranch = main
+[user]
+	email = Your E-Mail
+	name = Your Name
